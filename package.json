@@ -1,5 +1,5 @@
 {
-  "name": "react-svg-loader",
+  "name": "@engineerapart/react-svg-loader",
   "version": "2.1.0",
   "description": "Optimize svg and load it as a React Component",
   "keywords": [
